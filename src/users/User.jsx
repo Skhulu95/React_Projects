@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class User extends Component {
     componentDidMount() {
@@ -6,18 +6,18 @@ class User extends Component {
     }
     render() {
         const {
-            name,
-            avatar_url,
-            location,
-            bio,
-            blog,
-            login,
-            html_url,
-            followers,
-            following,
-            public_repos,
-            public_gists,
-            hireable
+             name,
+            // avatar_url,
+            // // location,
+            // bio,
+            // blog,
+            // login,
+            // html_url,
+            // followers,
+            // following,
+            // public_repos,
+            // public_gists,
+            // hireable
 
         } = this.props.user;
 
@@ -27,4 +27,4 @@ class User extends Component {
     }
 }
 
-export default User;
+export default User
