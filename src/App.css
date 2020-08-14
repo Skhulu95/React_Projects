@@ -20,7 +20,8 @@ body {
     font-family: 'Lucida Console', monospace;
     font-size: 15px;
     line-height: 1.6;
-    background-color: rgba(100, 95, 243, 0.6);
+    background: 
+		url(https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg) center/cover fixed no-repeat;
     color: rgb(22, 21, 21);
 }
 
